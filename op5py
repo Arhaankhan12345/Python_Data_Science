@@ -1,0 +1,15 @@
+# in operatorname
+
+name=['Ajay','vijay','sanjay']
+
+print('vijay'in name)
+print('Ajay'in name)
+print('raju'in name)
+print('priya' in name)
+
+message='one upon a time ,there was a person'
+print('upon'in message)
+print('there'in message)
+print('there'in message)
+print('a'not in message)
+
