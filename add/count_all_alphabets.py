@@ -9,3 +9,11 @@ for letter in ascii_lowercase:
 
 
 #wap to find tha most occring alphabet and its frequency
+
+feeq=0
+freq_letter =''
+for letter in ascii_lowercase:
+    Counter= data.count(letter)
+    print
+
+
