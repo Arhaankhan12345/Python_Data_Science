@@ -1,0 +1,10 @@
+
+#slicing in tuples
+mytuple='a','b','c','d','e','g','h','j','y','s','p','n','q','w','v','m'
+
+
+print(mytuple[1:4])
+print(mytuple[:-7])
+print(mytuple[7:])
+print(mytuple[:])
+print(mytuple[1::2])

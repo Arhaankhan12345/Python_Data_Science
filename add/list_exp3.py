@@ -23,10 +23,10 @@ print(x)
 xyz =x + y + z
 print(xyz)
 a=['apple','banana','cherry','dragonfrutit','elaichi']
-v=a.pop(3) # pop can remove value form on index
+v=a.pop(3) # pop can remove value form on index (delet)
 print(a)
 print(v)
-lv=a.pop() #pop remves last value by default
+lv=a.pop() #pop remove last value by default
 print(a)
 print(lv)
 
