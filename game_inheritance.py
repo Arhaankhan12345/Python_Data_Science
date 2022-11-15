@@ -3,7 +3,7 @@ from random import randint as ri
 import pgzrun
 WIDTH = 800
 HEIGHT = 500
-
+ 
 #all the calass logic
 class player(Actor):
     #override the default contructor
@@ -42,6 +42,8 @@ def draw():
 def update():
     p.move()
     p.check_boundary()
+
+
 
 
 
